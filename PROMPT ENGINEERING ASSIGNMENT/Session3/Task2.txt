@@ -1,0 +1,28 @@
+One-shot kya hota hai?
+One-shot prompting mein hum AI ko ek example dete hain, phir similar task karne ke liye bolte hain.
+Prompt:
+Example:
+
+Review:
+"ABC Restaurant has delicious food, friendly staff, and a comfortable
+ambience. The prices are reasonable and I would recommend it to others."
+
+Style:
+Short, friendly, natural, and mention food, service, ambience,
+and price.
+
+Now write a similar review for a dosa restaurant in Ahmedabad.
+Mention the dosa quality, taste, service, ambience, and price.
+Keep it around 60 words.
+
+Example Output:
+This dosa restaurant in Ahmedabad offers crispy and delicious dosas with great taste. The staff is friendly and the service is quick. The ambience is simple and comfortable, making it a good place for a casual meal. The prices are reasonable, and I would recommend it to anyone looking for tasty South Indian food.
+
+Flow:
+Example
+   ↓
+AI understands style
+   ↓
+New Task
+   ↓
+Similar Output

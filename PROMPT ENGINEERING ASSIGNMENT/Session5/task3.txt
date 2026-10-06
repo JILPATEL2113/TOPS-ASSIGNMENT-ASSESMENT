@@ -1,0 +1,56 @@
+Step 1 — Product Description Prompt
+Write a Flipkart-style product description for a new wireless
+earbud called "SoundBeat Air Pro".
+
+Use ONLY the specifications provided below:
+
+Product: SoundBeat Air Pro
+Battery: Up to 30 hours with charging case
+Connectivity: Bluetooth 5.3
+Charging: USB Type-C
+Microphones: Dual microphone
+Water Resistance: IPX4
+
+Do not invent specifications, features, warranty information,
+price, reviews, or performance claims.
+
+Clearly separate the confirmed specifications from marketing
+language.
+
+Example Response
+SoundBeat Air Pro Wireless Earbuds
+SoundBeat Air Pro wireless earbuds offer Bluetooth 5.3 connectivity and up to 30 hours of battery life with the charging case. The earbuds feature dual microphones and USB Type-C charging. With an IPX4 water-resistance rating, they are designed for everyday use.
+Key Specifications:
+- Battery: Up to 30 hours with charging case
+- Bluetooth: 5.3
+- Charging: USB Type-C
+- Microphones: Dual
+- Water Resistance: IPX4
+
+Step 2 — Verification Prompt
+Review your previous product description.
+
+For every factual claim, determine whether it was explicitly
+provided in my original product specifications.
+
+Answer in a table with these columns:
+
+Claim | Supported by Provided Data? | Assumption/Invented Detail
+
+If a statement is not directly supported by the provided data,
+identify it as an unsupported claim.
+
+Do not assume that marketing language is a verified specification.
+
+Example Verification
+Claim	Supported?	Assumption/Invented Detail
+Bluetooth 5.3	✅ Yes	No
+Up to 30 hours battery	✅ Yes	No
+Dual microphones	✅ Yes	No
+USB Type-C	✅ Yes	No
+IPX4	✅ Yes	No
+Everyday use	⚠️ General description	Not a provided specification
+
+
+Conclusion
+A verification prompt helps identify which statements came from the provided information and which statements may have been assumptions or unsupported claims.

@@ -1,0 +1,29 @@
+Prompt
+Explain how to book a movie ticket using BookMyShow.
+
+Use clear headings for every major step.
+Use exactly these headings:
+
+Step 1: Search Movie
+Step 2: Select Location
+Step 3: Select Show
+Step 4: Select Seats
+Step 5: Make Payment
+Step 6: Confirm Booking
+
+Under each heading, provide 1-2 simple sentences.
+Keep the explanation beginner-friendly.
+
+Example Output
+Step 1: Search Movie
+Open BookMyShow and search for the movie you want to watch.
+Step 2: Select Location
+Select your city or location to see available theatres and shows.
+Step 3: Select Show
+Choose your preferred theatre, date, and show time.
+Step 4: Select Seats
+Select the available seats you want to book and continue.
+Step 5: Make Payment
+Choose a suitable payment method and complete the payment.
+Step 6: Confirm Booking
+After successful payment, check your booking confirmation and ticket details.

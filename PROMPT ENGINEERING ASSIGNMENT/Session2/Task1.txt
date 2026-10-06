@@ -1,0 +1,20 @@
+ask 1 — Spotify Playlist in Bullet Points
+Prompt
+Create a step-by-step guide explaining how to create a new playlist
+on Spotify.
+
+Present the answer only in bullet points.
+Keep each step short and easy to understand.
+Include the steps for creating the playlist, naming it, and adding songs.
+
+Example Output
+- Open the Spotify app.
+- Go to Your Library.
+- Select Create Playlist.
+- Enter a name for your playlist.
+- Add a description or cover image if required.
+- Search for songs you want to add.
+- Select Add to Playlist.
+- Your new playlist is ready.
+Concept
+Yahan hum AI ko specifically bullet-point output format de rahe hain.

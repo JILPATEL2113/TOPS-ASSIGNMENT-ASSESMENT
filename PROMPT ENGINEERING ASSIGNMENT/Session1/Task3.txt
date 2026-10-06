@@ -1,0 +1,38 @@
+Part A — Vague Prompt
+Prompt
+Write a review for a new café.
+
+Example AI Output
+I recently visited a new café and had a nice experience. The café had a pleasant atmosphere and the food was tasty. The staff was friendly and the service was good. Overall, it is a nice place to visit with friends and family. I would recommend trying it.
+
+Part B — Detailed Prompt
+Prompt
+Write a 120-word restaurant review for a newly opened café
+called "The Bean House" in Ahmedabad.
+
+Cuisine: Italian and Continental
+Ambience: Modern, cozy, and suitable for students
+Price range: ₹300–₹500 per person
+Food: Pizza, pasta, sandwiches, and cold coffee
+Service: Friendly and reasonably fast
+
+Write the review in a natural and friendly tone.
+Mention the ambience, food quality, service, and price.
+End with a recommendation for college students.
+
+Example AI Output
+The Bean House is a cozy new café in Ahmedabad that offers a great mix of Italian and Continental food. The modern interiors and comfortable seating make it a nice place for students to relax, study, or catch up with friends. I tried their pizza and pasta, and both were flavorful and freshly prepared. The cold coffee was also refreshing. The staff was friendly and the service was reasonably quick. With prices around ₹300–₹500 per person, the café offers a comfortable experience without being too expensive. Overall, The Bean House is a good option for college students looking for tasty food, a relaxed ambience, and a casual place to spend time with friends.
+
+Comparison
+Feature	Vague Prompt	Detailed Prompt
+Cuisine	Not specified	Italian & Continental
+Ambience	Generic	Modern & cozy
+Price	Not specified	₹300–₹500
+Food	Generic	Pizza, pasta, sandwiches, cold coffee
+Target audience	Not specified	College students
+Tone	Not specified	Friendly
+Output	Generic review	More specific review
+
+
+Conclusion
+The detailed prompt produces a better result because it gives the AI the necessary context, constraints, target audience, and writing style. The vague prompt gives the model very little information, so the response is generic.

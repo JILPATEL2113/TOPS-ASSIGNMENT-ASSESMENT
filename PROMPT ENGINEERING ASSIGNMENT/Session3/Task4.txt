@@ -1,0 +1,53 @@
+Task 4 — Zero-Shot vs One-Shot vs Few-Shot
+Task: Create a Spotify playlist description for:
+"Monsoon Vibes"
+1️⃣ Zero-Shot Prompt
+Prompt:
+Write a description for a Spotify playlist called "Monsoon Vibes".
+
+Example Response:
+A relaxing collection of songs perfect for rainy days, peaceful moments, and enjoying the monsoon atmosphere.
+
+2️⃣ One-Shot Prompt
+Prompt:
+Example:
+
+Playlist: Road Trip
+Description:
+"Feel-good songs for long drives, open roads, and unforgettable
+travel moments."
+
+Now write a similar description for a Spotify playlist called
+"Monsoon Vibes".
+
+Example Response:
+"Soulful songs for rainy evenings, cozy moments, and enjoying the magic of the monsoon."
+
+3️⃣ Few-Shot Prompt
+Prompt:
+Example 1:
+
+Playlist: Road Trip
+Description:
+"Feel-good songs for long drives, open roads, and unforgettable
+travel moments."
+
+Example 2:
+
+Playlist: Late Night Chill
+Description:
+"Smooth and relaxing tracks for quiet nights, deep thoughts,
+and peaceful moments."
+
+Example 3:
+
+Playlist: Summer Hits
+Description:
+"Upbeat songs for sunny days, good vibes, parties, and
+unforgettable summer memories."
+
+Now write a description for a Spotify playlist called
+"Monsoon Vibes" using the same style and length.
+
+Example Response:
+"Soulful songs for rainy days, cozy evenings, peaceful moments, and unforgettable monsoon memories."

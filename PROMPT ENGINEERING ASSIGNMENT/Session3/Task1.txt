@@ -1,0 +1,16 @@
+Task 1 — Zero-Shot Prompting
+Zero-shot kya hota hai?
+Zero-shot prompting mein hum AI ko koi example diye bina directly task dete hain.
+Prompt:
+Give me a one-line summary of the latest IPL match.
+
+Example Response:
+The latest IPL match was a competitive game in which the winning team secured victory through strong batting and bowling performances.
+
+⚠️ Important: Ye sirf example response hai. Aapke assignment ke liye ChatGPT mein prompt run karke jo actual latest-match response aaye, wahi exact response paste karo.
+Concept:
+Prompt
+  ↓
+No Example
+  ↓
+AI generates answer

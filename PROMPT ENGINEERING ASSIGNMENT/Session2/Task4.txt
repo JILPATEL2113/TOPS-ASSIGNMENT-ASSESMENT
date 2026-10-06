@@ -1,0 +1,23 @@
+Task 4 — UPI Benefits
+Prompt
+Summarize the main benefits of using UPI apps such as PhonePe
+and Paytm.
+
+Give exactly 3 short bullet points.
+The complete answer must not exceed 30 words.
+Do not include an introduction or conclusion.
+
+Example Output
+- Fast and convenient payments.
+- Available 24/7 through mobile apps.
+- Easy bill payments and money transfers.
+Word Count
+Fast and convenient payments.                 → 4
+Available 24/7 through mobile apps.           → 5
+Easy bill payments and money transfers.       → 6
+
+Total = 15 words
+
+So it satisfies:
+Exactly 3 bullet points
+≤ 30 words

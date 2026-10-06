@@ -1,0 +1,45 @@
+Mistake 1 — Too vague
+❌ Don't
+Recommend some food.
+
+The AI doesn't know:
+- Cuisine
+- Budget
+- Vegetarian/non-vegetarian
+- Meal type
+✅ Do
+Recommend 5 vegetarian Gujarati dishes for dinner under ₹300.
+Prefer mildly spicy food and give a short reason for each
+recommendation.
+
+Mistake 2 — Missing important context
+❌ Don't
+Book a movie for me.
+
+Important information is missing.
+✅ Do
+I want to watch a Hindi movie this weekend in Ahmedabad.
+Suggest suitable movies and mention their genre, language,
+and approximate duration. I prefer comedy or action movies.
+
+Mistake 3 — Not specifying the output format
+❌ Don't
+Tell me about restaurants in Ahmedabad.
+
+✅ Do
+Suggest 5 vegetarian restaurants in Ahmedabad.
+Present the answer in a table with:
+1. Restaurant name
+2. Cuisine
+3. Approximate price range
+4. Suitable meal
+5. One-line description
+
+Quick Revision
+Bad Prompt
+↓
+Vague + Missing Context + No Format
+
+Good Prompt
+↓
+Clear Goal + Context + Constraints + Output Format

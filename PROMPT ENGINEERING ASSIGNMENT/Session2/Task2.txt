@@ -1,0 +1,29 @@
+Zomato vs Swiggy Table
+Prompt
+Compare Zomato and Swiggy based on their major features.
+
+Present the answer in a table with exactly these columns:
+
+Feature | Zomato | Swiggy
+
+Include at least 6 features such as food delivery,
+restaurant discovery, offers, live order tracking,
+subscription/membership, and customer support.
+
+Keep each comparison short and factual.
+
+Example Output
+Feature	Zomato	Swiggy
+Food Delivery	Restaurant food delivery	Restaurant food delivery
+Restaurant Discovery	Search and discover restaurants	Search and discover restaurants
+Offers	Coupons and discounts	Coupons and discounts
+Order Tracking	Live order tracking	Live order tracking
+Membership	Zomato Gold	Swiggy One
+Customer Support	In-app support options	In-app support options
+
+
+Concept
+Is prompt mein humne:
+Task + Required Columns + Number of Features + Output Format
+
+clearly define kiya hai.

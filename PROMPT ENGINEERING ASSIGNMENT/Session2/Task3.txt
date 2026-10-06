@@ -1,0 +1,50 @@
+IPL Winners in JSON
+IPL winner information time-sensitive ho sakti hai, isliye actual submission banate waqt latest official/current data verify karna better hai.
+Prompt
+List the five most recent IPL winners.
+
+For each winner, provide:
+- year
+- team name
+
+Return ONLY valid JSON.
+Do not include Markdown, explanations, or extra text.
+
+Use this exact JSON structure:
+
+{
+  "winners": [
+    {
+      "year": 2025,
+      "team": "Team Name"
+    }
+  ]
+}
+
+Example Output Structure
+{
+  "winners": [
+    {
+      "year": 2025,
+      "team": "Example Team"
+    },
+    {
+      "year": 2024,
+      "team": "Example Team"
+    },
+    {
+      "year": 2023,
+      "team": "Example Team"
+    },
+    {
+      "year": 2022,
+      "team": "Example Team"
+    },
+    {
+      "year": 2021,
+      "team": "Example Team"
+    }
+  ]
+}
+
+Assignment mein actual ChatGPT output paste karna, aur ensure karna ki output valid JSON ho.

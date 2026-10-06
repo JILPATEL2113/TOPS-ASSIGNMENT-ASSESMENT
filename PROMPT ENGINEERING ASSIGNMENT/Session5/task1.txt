@@ -1,0 +1,20 @@
+Task 1 — Detecting Hallucination
+Prompt
+List the top 5 trending dishes on Zomato in Ahmedabad right now.
+
+For each dish, provide:
+1. Dish name
+2. Restaurant name
+3. Approximate price
+4. Why it is trending
+
+Only provide information that you can verify.
+If you cannot verify something, clearly write "Not verified".
+
+Example observation
+AI may provide plausible-sounding restaurant and dish names, but a normal AI response should not automatically be treated as current Zomato data unless it has access to a current, verifiable source.
+Assignment Answer
+I checked the AI-generated list and compared the information with current Zomato listings. Some information could not be independently verified. This shows that AI can sometimes generate plausible information that is not supported by a current source. Such unsupported information is called a hallucination.
+
+Important
+For this task, don't write that a particular restaurant/dish is fake unless you actually verify it. You can write "not independently verified".

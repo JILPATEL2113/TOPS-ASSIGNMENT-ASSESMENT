@@ -1,0 +1,56 @@
+Aapke question ka last part "Refactor your earlier Zomato food revi..." par cut ho gaya hai. Based on the visible part, earlier role prompt ko more structured prompt mein refactor kar sakte ho.
+Earlier Prompt
+Act as a professional Zomato food reviewer.
+
+Review a new restaurant in Ahmedabad.
+
+Refactored Prompt
+You are a professional Zomato food reviewer specializing
+in restaurant reviews.
+
+Your task is to write a natural and useful review for a
+new restaurant in Ahmedabad.
+
+Restaurant details:
+- Name: Gujarati Rasoi
+- Cuisine: Gujarati
+- Location: Ahmedabad
+- Food: Gujarati thali, khaman, dhokla, kadhi
+- Ambience: Clean, comfortable, family-friendly
+- Service: Friendly and reasonably fast
+- Price: ₹300–₹500 per person
+
+Requirements:
+1. Write approximately 100 words.
+2. Mention food taste and quality.
+3. Mention ambience.
+4. Mention service.
+5. Mention price/value.
+6. End with a short recommendation.
+7. Use a friendly and natural tone.
+
+Output format:
+Restaurant Review
+Food:
+Ambience:
+Service:
+Price:
+Overall:
+Recommendation:
+
+Why is the refactored prompt better?
+The original prompt only defines the role.
+The refactored prompt defines:
+Role
+ ↓
+Task
+ ↓
+Context
+ ↓
+Specific information
+ ↓
+Constraints
+ ↓
+Output format
+
+Therefore, the AI has much clearer instructions about what to write and how to present it.

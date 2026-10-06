@@ -1,0 +1,30 @@
+Prompt
+Summarize the IPL 2023 final using ONLY the text provided below.
+
+Text:
+"Chennai Super Kings won the IPL 2023 final against Gujarat Titans
+by 5 wickets."
+
+Rules:
+- Only use information from the provided text.
+- Do not add any extra facts.
+- Do not mention players, scores, venues, dates, or other details
+unless they appear in the provided text.
+- Keep the answer to one sentence.
+
+Expected Response
+Chennai Super Kings won the IPL 2023 final against Gujarat Titans by 5 wickets.
+
+Verification
+Information	In Provided Text?	AI Should Include?
+Chennai Super Kings won	✅	✅
+Gujarat Titans	✅	✅
+Won by 5 wickets	✅	✅
+Player names	❌	❌
+Venue	❌	❌
+Individual scores	❌	❌
+Match date	❌	❌
+
+
+Conclusion
+The response follows the supplied information and does not introduce additional match details.

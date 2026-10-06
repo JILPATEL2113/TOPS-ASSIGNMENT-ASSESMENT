@@ -1,0 +1,68 @@
+Prompt
+You are a travel planning assistant.
+
+Create a one-day trip plan for Ahmedabad.
+
+Consider:
+- Breakfast, lunch, snacks, and dinner
+- Local travel between places
+- Cultural and historical attractions
+- Shopping or entertainment
+- A reasonable student-friendly budget
+
+Organize the response chronologically from morning to night.
+
+For each activity, provide:
+1. Approximate time
+2. Activity/place
+3. Food or travel suggestion
+4. Approximate cost
+
+After creating the plan, give a short summary of the total
+estimated budget.
+
+Provide concise explanations rather than hidden chain-of-thought.
+
+Example Response
+🌅 Morning
+8:00 AM – Breakfast
+Have a traditional Gujarati breakfast such as fafda-jalebi, khaman, or thepla.
+Estimated cost: ₹100–₹200
+9:00 AM – Heritage visit
+Visit Sabarmati Ashram and explore the surroundings.
+Estimated travel: ₹50–₹100 depending on transport.
+☀️ Afternoon
+12:30 PM – Lunch
+Have a Gujarati thali at a local restaurant.
+Estimated cost: ₹250–₹400
+2:00 PM – City sightseeing
+Visit places such as Adalaj Stepwell or another nearby attraction.
+Travel: Keep extra time for the journey because it is outside central Ahmedabad.
+🌆 Evening
+5:00 PM – Riverfront
+Spend some time at Sabarmati Riverfront.
+Estimated cost: ₹0–₹100 depending on activities.
+6:30 PM – Snacks
+Try local snacks such as:
+- Khandvi
+- Dhokla
+- Sev khamani
+- Chaas
+Estimated cost: ₹100–₹200
+🌙 Night
+8:00 PM – Dinner
+Have a Gujarati or North Indian dinner.
+Estimated cost: ₹200–₹400
+9:30 PM – Return home
+Use metro, bus, auto, or cab depending on your location.
+Estimated Student Budget
+Breakfast       ₹150
+Travel          ₹300
+Lunch           ₹300
+Snacks          ₹150
+Dinner          ₹300
+Miscellaneous   ₹200
+--------------------
+Total           ₹1,400 approx.
+
+Note: Actual prices and travel times vary, so this is only an example planning estimate.

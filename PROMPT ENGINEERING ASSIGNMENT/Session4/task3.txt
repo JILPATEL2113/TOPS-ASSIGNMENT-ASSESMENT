@@ -1,0 +1,35 @@
+rompt
+Assignment ke liye ye prompt use karo:
+You are a financial calculation assistant.
+
+Solve this problem using simple arithmetic:
+I have ₹2000 in my Paytm wallet. I want to buy three items
+costing ₹499, ₹799, and ₹899.
+
+Calculate the total cost, compare it with the available balance,
+and clearly state whether I have enough money.
+
+Show the calculation in short, clear steps.
+Do not provide hidden chain-of-thought; provide only the
+necessary calculations and conclusion.
+
+Example Response
+Step 1: Calculate the total cost.
+
+₹499 + ₹799 + ₹899 = ₹2,197
+
+Step 2: Compare with the wallet balance.
+
+Available balance = ₹2,000
+Total cost = ₹2,197
+
+Step 3: Calculate the difference.
+
+₹2,197 - ₹2,000 = ₹197
+
+Conclusion:
+No, you do not have enough balance.
+You are short by ₹197.
+
+Final Answer:
+❌ No, ₹2,000 is not enough. You need ₹197 more.

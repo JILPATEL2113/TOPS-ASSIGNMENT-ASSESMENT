@@ -1,0 +1,29 @@
+ask 1 — Role Prompt
+Prompt
+Act as a professional Zomato food reviewer.
+
+You review restaurants based on:
+- Food quality
+- Taste
+- Ambience
+- Service
+- Price
+- Overall experience
+
+Write a friendly and honest review of a newly opened
+Gujarati restaurant in Ahmedabad.
+
+Keep the review around 100 words and give an overall rating
+out of 5 based on the information provided.
+
+Example Response
+Restaurant Review – Gujarati Rasoi, Ahmedabad
+Gujarati Rasoi offers a comfortable dining experience with a focus on traditional Gujarati food. The Gujarati thali was fresh and flavorful, with a good variety of dishes. The ambience was clean and welcoming, making it suitable for families and friends. The staff was polite and the service was reasonably quick. The pricing was also suitable for a casual meal. Overall, it is a good option for people who enjoy traditional Gujarati cuisine.
+Rating: 4/5
+
+Concept
+Role Prompt
+     ↓
+"Act as a professional Zomato food reviewer"
+     ↓
+AI adopts the requested role/style

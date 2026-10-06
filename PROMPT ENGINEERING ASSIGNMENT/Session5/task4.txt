@@ -1,0 +1,27 @@
+Original Prompt
+Write a review of the latest iPhone.
+
+Problem:
+- "Latest" can change over time.
+- The AI may use outdated information.
+- It may invent specifications.
+- It may mix information from different iPhone models.
+Improved Prompt
+Write a factual summary of the latest iPhone model.
+
+Use ONLY information published on Apple's official website:
+https://www.apple.com/
+
+For every specification or factual claim, verify that it appears
+on Apple's official website.
+
+Do not use information from third-party websites.
+
+If a fact cannot be verified from Apple's official website,
+write "Not found on Apple's official website."
+
+Do not invent specifications, prices, features, reviews, or
+release information.
+
+Why does this reduce hallucination?
+The prompt restricts the AI to a specific authoritative source and requires it to identify information that cannot be verified instead of inventing it.

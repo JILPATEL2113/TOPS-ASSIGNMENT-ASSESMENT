@@ -1,0 +1,42 @@
+Task 1 — Unclear Prompt vs Clear Prompt
+Prompt 1 — Unclear
+Give me a list of trending songs in India.
+
+Example Response
+1. Aaj Ki Raat
+2. Tauba Tauba
+3. Apna Bana Le
+4. Heeriye
+5. Kesariya
+6. Chaleya
+7. O Maahi
+
+Prompt 2 — Clear
+Give me a list of 10 trending Bollywood songs released after
+2022 in India. Include the song name, artist/singer name,
+movie name if applicable, and release year. Present the
+information in a table.
+
+Example Response
+Song	Artist	Movie	Release Year
+Tauba Tauba	Karan Aujla	Bad Newz	2024
+Aaj Ki Raat	Madhubanti Bagchi, Divya Kumar, Sachin-Jigar	Stree 2	2024
+Satranga	Arijit Singh	Animal	2023
+O Maahi	Arijit Singh	Dunki	2023
+Chaleya	Arijit Singh, Shilpa Rao	Jawan	2023
+
+
+Comparison
+Unclear prompt:
+- Output can be broad.
+- Required details are not specified.
+- The meaning of "trending" is not clearly defined.
+- Results may vary depending on the model and data.
+Clear prompt:
+- Specifies Bollywood.
+- Specifies songs released after 2022.
+- Specifies artist names.
+- Specifies the number of songs.
+- Specifies the desired output format.
+Conclusion
+A clear prompt gives the AI more specific instructions, so the response is generally more focused and relevant to the requested task.

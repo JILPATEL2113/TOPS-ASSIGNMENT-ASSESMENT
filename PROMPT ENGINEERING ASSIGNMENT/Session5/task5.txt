@@ -1,0 +1,70 @@
+For this task, the important idea is fact + source.
+Prompt
+You are a movie information assistant.
+
+Summarize the movie provided by the user.
+
+For every factual statement, provide its source immediately
+after the statement.
+
+Use reliable sources such as:
+- Official movie/studio website
+- Official distributor website
+- BookMyShow
+- IMDb, where appropriate
+
+Do not invent facts.
+
+If you cannot find a reliable source for a fact, write:
+"Source not found."
+
+Use this format:
+
+Movie:
+Genre:
+Release Date:
+Director:
+Cast:
+Story Summary:
+
+For each factual field, add:
+Source: [URL]
+
+Clearly distinguish between sourced facts and general summary.
+
+Test Prompt
+Summarize the movie "3 Idiots".
+
+For every factual statement, provide the source immediately
+after the statement.
+
+If you cannot verify a fact, write:
+"Source not found."
+
+Example Output Format
+Movie: 3 Idiots
+
+Genre: Comedy-drama.
+Source: [verified source URL]
+
+Director: Rajkumar Hirani.
+Source: [verified source URL]
+
+Release Date: 25 December 2009.
+Source: [verified source URL]
+
+Cast: Aamir Khan, R. Madhavan, Sharman Joshi and others.
+Source: [verified source URL]
+
+Story Summary:
+The film follows three college friends and explores their
+experiences with education, friendship, and career pressure.
+Source: [verified source URL]
+
+Important observation
+A prompt asking for URLs doesn't itself guarantee that the URLs are real. The sources still need to be checked.
+A stronger version is:
+Do not create or guess URLs.
+Only provide a URL if you actually verified that the page
+contains the information being cited.
+Otherwise write "Source not found."

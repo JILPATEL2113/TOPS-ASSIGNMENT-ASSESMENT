@@ -1,0 +1,43 @@
+Few-shot kya hota hai?
+Few-shot prompting mein AI ko multiple examples diye jaate hain, jisse model desired style/pattern ko better follow kar sake.
+Prompt:
+Write product descriptions using the following style:
+
+Example 1:
+Product: Smartphone
+
+Description:
+Powerful performance, a vibrant display, and a long-lasting battery
+make this smartphone a great choice for everyday use. Its stylish
+design makes it suitable for work and entertainment.
+
+Example 2:
+Product: Headphones
+
+Description:
+Enjoy clear and immersive sound with these comfortable headphones.
+The lightweight design and long battery life make them ideal for
+music, travel, and everyday entertainment.
+
+Example 3:
+Product: Shoes
+
+Description:
+These stylish and comfortable shoes are perfect for everyday use.
+The lightweight design and durable sole provide comfort and support
+while walking or travelling.
+
+Now write a product description for a smartwatch using the same
+style and structure.
+
+Example Output:
+Stay connected with this stylish and feature-packed smartwatch. Its bright display, comfortable design, and useful fitness features make it ideal for everyday activities. The long-lasting battery and lightweight build make it suitable for workouts, work, and daily use.
+
+Flow:
+Example 1 ──┐
+Example 2 ──┼──> AI learns pattern/style
+Example 3 ──┘
+              ↓
+         New Task
+              ↓
+       Smartwatch Description
